@@ -18,7 +18,8 @@
 <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
 <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/abhisheknaiidu/awesome-github-profile-readme" alt="Stars Badge"/></a>
 <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/network/members"><img src="https://img.shields.io/github/forks/abhisheknaiidu/awesome-github-profile-readme" alt="Forks Badge"/></a>
-[![Static Badge](https://img.shields.io/badge/build-4-green?style=flat-square&logo=appveyor&logoColor=black&logoSize=amg&label=Contributtors&labelColor=gray&color=green&cacheSeconds=3600&link=https%3A%2F%2Fgithub.com%2FM-Ridho-Fauzan%2FFIVEIDEA-Pasar-Kuliner-Nusantara%2Fgraphs%2Fcontributors)](https://github.com/M-Ridho-Fauzan/FIVEIDEA-Pasar-Kuliner-Nusantara/graphs/contributors) 
+<a href="https://github.com/M-Ridho-Fauzan/FIVEIDEA-Pasar-Kuliner-Nusantara/graphs/contributors"><a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/network/members"><img alt="Static Badge" src="https://img.shields.io/badge/build-4-green?style=flat-square&logo=appveyor&logoColor=black&logoSize=amg&label=Contributtors&labelColor=gray&color=green&cacheSeconds=3600"></a>
+
 
 </div>
 
