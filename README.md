@@ -38,7 +38,7 @@ Ada beberapa file yang tidak terupload di github ini, oleh karena itu silahkan d
 
 <div align="center">
 
-[![Static Badge](https://img.shields.io/badge/build-M%20Ridho%20Fauzan-green?style=for-the-badge&logo=github&logoColor=white&logoSize=amd&label=Github&labelColor=gray&color=97979A&cacheSeconds=3600)]()
+[![Static Badge](https://img.shields.io/badge/build-M%20Ridho%20Fauzan-green?style=for-the-badge&logo=github&logoColor=white&logoSize=amd&label=Github&labelColor=gray&color=97979A&cacheSeconds=3600)](https://github.com/M-Ridho-Fauzan)
 [![Static Badge](https://img.shields.io/badge/build-Dafa-green?style=for-the-badge&logo=github&logoColor=white&logoSize=amd&label=Github&labelColor=gray&color=97979A&cacheSeconds=3600)]()
 [![Static Badge](https://img.shields.io/badge/build-asd-green?style=for-the-badge&logo=github&logoColor=white&logoSize=amd&label=Github&labelColor=gray&color=97979A&cacheSeconds=3600)]()
 [![Static Badge](https://img.shields.io/badge/build-asd%20A-green?style=for-the-badge&logo=github&logoColor=white&logoSize=amd&label=Github&labelColor=gray&color=97979A&cacheSeconds=3600)]()
