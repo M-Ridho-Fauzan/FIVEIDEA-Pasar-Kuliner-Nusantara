@@ -183,7 +183,13 @@ MonoBehaviour:
     globalTransitions: []
     variables:
       floatVariables: []
-      intVariables: []
+      intVariables:
+      - useVariable: 1
+        name: Price
+        tooltip: 
+        showInInspector: 1
+        networkSync: 0
+        value: 12
       boolVariables: []
       stringVariables:
       - useVariable: 1
@@ -230,7 +236,7 @@ MonoBehaviour:
       enumVariables: []
       categories:
       - 
-      variableCategoryIDs: 0000000000000000000000000000000000000000
+      variableCategoryIDs: 000000000000000000000000000000000000000000000000
     description: 
     docUrl: 
     showStateLabel: 0

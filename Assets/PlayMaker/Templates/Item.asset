@@ -107,7 +107,7 @@ MonoBehaviour:
           value: 
         fsmObjectParams: []
         fsmVarParams:
-        - variableName: Nama Item
+        - variableName: 
           objectType: UnityEngine.Object
           useVariable: 1
           type: 4
@@ -131,7 +131,7 @@ MonoBehaviour:
             stringValues: []
             vector4Values: []
             objectReferences: []
-        - variableName: Nama Item
+        - variableName: 
           objectType: UnityEngine.Object
           useVariable: 1
           type: 4
@@ -1575,7 +1575,13 @@ MonoBehaviour:
         showInInspector: 0
         networkSync: 0
         value: 0
-      intVariables: []
+      intVariables:
+      - useVariable: 1
+        name: Price
+        tooltip: 
+        showInInspector: 1
+        networkSync: 0
+        value: 0
       boolVariables: []
       stringVariables:
       - useVariable: 1
@@ -1634,7 +1640,7 @@ MonoBehaviour:
       enumVariables: []
       categories:
       - 
-      variableCategoryIDs: 0000000000000000000000000000000000000000000000000000000000000000
+      variableCategoryIDs: 000000000000000000000000000000000000000000000000000000000000000000000000
     description: 
     docUrl: 
     showStateLabel: 0
