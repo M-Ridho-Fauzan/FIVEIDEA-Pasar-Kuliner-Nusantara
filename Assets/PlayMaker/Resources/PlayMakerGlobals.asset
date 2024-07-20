@@ -71,15 +71,39 @@ MonoBehaviour:
       showInInspector: 0
       networkSync: 0
       value: {fileID: 0}
+    - useVariable: 1
+      name: Camera
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: {fileID: 0}
     objectVariables: []
     materialVariables: []
     textureVariables: []
-    arrayVariables: []
+    arrayVariables:
+    - useVariable: 1
+      name: Menu Objects
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      type: 3
+      objectTypeName: UnityEngine.Object
+      floatValues: []
+      intValues: 
+      boolValues: 
+      stringValues: []
+      vector4Values: []
+      objectReferences:
+      - {fileID: 4671286138571191615, guid: 1169090a339fab4438f35c029d53caba, type: 3}
+      - {fileID: 5076202514123697151, guid: 313839df325b24b4db284da4f1d945e7, type: 3}
+      - {fileID: 6750868152711192194, guid: 58473fbdfdf725c4bbcddaa0b3078cbd, type: 3}
+      - {fileID: 3761506246187343869, guid: aeda0a03a6a9e8f4c86236374182ea1e, type: 3}
     enumVariables: []
     categories:
     - 
-    variableCategoryIDs: 0000000000000000000000000000000000000000000000000000000000000000
+    variableCategoryIDs: 00000000000000000000000000000000000000000000000000000000000000000000000000000000
   events:
   - Interected
   - Interacted
   - Uninteracted
+  - Order Received

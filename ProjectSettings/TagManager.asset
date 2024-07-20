@@ -7,11 +7,21 @@ TagManager:
   - Interactable
   - Plate
   - Item Pisang
+  - Item Sate
+  - Seat Point
+  - Customer point
+  - Pisang
+  - Getuk
+  - Naspad
+  - Sate
+  - Customer
+  - Item Carry Point
+  - Model
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Post Processing
   - Water
   - UI
   - 
