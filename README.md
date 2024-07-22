@@ -6,7 +6,7 @@
 [![Static Badge](https://img.shields.io/badge/build-v2022.3.19f1-green?style=flat&logo=unity&logoColor=white&logoSize=auto&label=Unity%20Version&labelColor=grey&color=dark%20green&cacheSeconds=3600)](https://unity.com/releases/editor/whats-new/2022.3.19)
 [![Static Badge](https://img.shields.io/badge/-C%20Sharp-green?style=flat&logo=sharp&logoColor=%230C1528&logoSize=amd&labelColor=%234ACBD6&color=%23191A1B&cacheSeconds=3600)]()
 [![Static Badge](https://img.shields.io/badge/build-v0.01-green?style=flat&logo=alibabacloud&logoColor=white&logoSize=amd&label=Game%20Version&labelColor=grey&color=orange&cacheSeconds=3600)](https://github.com/M-Ridho-Fauzan/FIVEIDEA-Pasar-Kuliner-Nusantara)
-[![Static Badge](https://img.shields.io/badge/-Android-green?style=flat&logo=android&logoColor=white&logoSize=amd&labelColor=grey&color=%2305CE78&cacheSeconds=3600)]()
+[![Static Badge](https://img.shields.io/badge/-Android-green?style=flat&logo=android&logoColor=white&logoSize=amd&labelColor=grey&color=%2305CE78&cacheSeconds=3600)](https://itch.io/jam/tsa-gamefest-game-jam)
 [![Static Badge](https://img.shields.io/badge/-Windows-green?style=flat&logo=pycharm&logoColor=%230C1528&logoSize=amd&labelColor=%234ACBD6&color=%230C1528&cacheSeconds=3600)](https://www.microsoft.com/software-download/windows11)
 
 ![design](/RmAsset/Unity%20Logo.png) 
@@ -22,7 +22,7 @@
 
 ## Conected
 
-  [![Static Badge](https://img.shields.io/badge/-Itch.io-green?style=plastic&logo=itchdotio&logoColor=%23FA5C5C&logoSize=amd&labelColor=white&color=gray&cacheSeconds=3600)](https://itch.io/)
+  [![Static Badge](https://img.shields.io/badge/-Itch.io-green?style=plastic&logo=itchdotio&logoColor=%23FA5C5C&logoSize=amd&labelColor=white&color=gray&cacheSeconds=3600)](https://itch.io/jam/tsa-gamefest-game-jam)
   [![Static Badge](https://img.shields.io/badge/-Academy-green?style=plastic&label=Agate&labelColor=%23071D49&color=%230B2C4A&cacheSeconds=3600)](https://academy.agate.id/)
   ,,,
 
@@ -39,10 +39,10 @@ Ada beberapa file yang tidak terupload di github ini, oleh karena itu silahkan d
 <div align="center">
 
 [![Static Badge](https://img.shields.io/badge/build-M%20Ridho%20Fauzan-green?style=for-the-badge&logo=github&logoColor=white&logoSize=amd&label=Github&labelColor=gray&color=97979A&cacheSeconds=3600)](https://github.com/M-Ridho-Fauzan)
-[![Static Badge](https://img.shields.io/badge/build-Dafa-green?style=for-the-badge&logo=github&logoColor=white&logoSize=amd&label=Github&labelColor=gray&color=97979A&cacheSeconds=3600)]()
-[![Static Badge](https://img.shields.io/badge/build-asd-green?style=for-the-badge&logo=github&logoColor=white&logoSize=amd&label=Github&labelColor=gray&color=97979A&cacheSeconds=3600)]()
-[![Static Badge](https://img.shields.io/badge/build-asd%20A-green?style=for-the-badge&logo=github&logoColor=white&logoSize=amd&label=Github&labelColor=gray&color=97979A&cacheSeconds=3600)]()
-[![Static Badge](https://img.shields.io/badge/build-asd%20B-green?style=for-the-badge&logo=github&logoColor=white&logoSize=amd&label=Github&labelColor=gray&color=97979A&cacheSeconds=3600)]()
+[![Static Badge](https://img.shields.io/badge/build-Dafa-green?style=for-the-badge&logo=github&logoColor=white&logoSize=amd&label=Github&labelColor=gray&color=97979A&cacheSeconds=3600)](https://github.com/kenalinakuridwan)
+[![Static Badge](https://img.shields.io/badge/build-ridwanlimo-green?style=for-the-badge&logo=github&logoColor=white&logoSize=amd&label=Github&labelColor=gray&color=97979A&cacheSeconds=3600)](https://github.com/Pedqt)
+[![Static Badge](https://img.shields.io/badge/build-Juliofaridh-green?style=for-the-badge&logo=github&logoColor=white&logoSize=amd&label=Github&labelColor=gray&color=97979A&cacheSeconds=3600)](https://github.com/Pedqt)
+[![Static Badge](https://img.shields.io/badge/build-Sharen%20Kamaya%20Palamba-green?style=for-the-badge&logo=github&logoColor=white&logoSize=amd&label=Github&labelColor=gray&color=97979A&cacheSeconds=3600)](https://github.com/sharnP)
 
 </div>
 
