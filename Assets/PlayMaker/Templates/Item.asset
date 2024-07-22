@@ -452,7 +452,7 @@ MonoBehaviour:
         - 
         - 
         actionEnabled: 0101010101010101
-        actionIsOpen: 0000000000000001
+        actionIsOpen: 0000000000000000
         actionStartIndex: 000000000500000007000000090000000e0000002f0000003400000037000000
         actionHashCodes: 16e9ed03d97b72029bd6f801a0dd83037754dd03b2cf100043e241039c512400
         unityObjectParams:
@@ -1490,6 +1490,58 @@ MonoBehaviour:
         - resetLocalRotation
         paramDataPos: 00000000000000000000000000000000000000000000000001000000000000000100000001000000000000000100000002000000
         paramByteDataSize: 00000000000000000000000001000000000000000000000000000000000000000000000000000000000000000000000000000000
+    - name: On Customer
+      description: 
+      colorIndex: 0
+      position:
+        serializedVersion: 2
+        x: 431.47656
+        y: 184.875
+        width: 107
+        height: 16
+      isBreakpoint: 0
+      isSequence: 0
+      hideUnused: 0
+      transitions: []
+      actionData:
+        actionNames: []
+        customNames: []
+        actionEnabled: 
+        actionIsOpen: 
+        actionStartIndex: 
+        actionHashCodes: 
+        unityObjectParams: []
+        fsmGameObjectParams: []
+        fsmOwnerDefaultParams: []
+        animationCurveParams: []
+        functionCallParams: []
+        fsmTemplateControlParams: []
+        fsmEventTargetParams: []
+        fsmPropertyParams: []
+        layoutOptionParams: []
+        fsmStringParams: []
+        fsmObjectParams: []
+        fsmVarParams: []
+        fsmArrayParams: []
+        fsmEnumParams: []
+        fsmFloatParams: []
+        fsmIntParams: []
+        fsmBoolParams: []
+        fsmVector2Params: []
+        fsmVector3Params: []
+        fsmColorParams: []
+        fsmRectParams: []
+        fsmQuaternionParams: []
+        stringParams: []
+        byteData: 
+        arrayParamSizes: 
+        arrayParamTypes: []
+        customTypeSizes: 
+        customTypeNames: []
+        paramDataType: 
+        paramName: []
+        paramDataPos: 
+        paramByteDataSize: 
     events:
     - name: Can Picked Up
       isSystemEvent: 0
@@ -1510,6 +1562,9 @@ MonoBehaviour:
       isSystemEvent: 0
       isGlobal: 0
     - name: Order Received
+      isSystemEvent: 0
+      isGlobal: 1
+    - name: On Customer
       isSystemEvent: 0
       isGlobal: 1
     globalTransitions:
@@ -1563,6 +1618,15 @@ MonoBehaviour:
         isSystemEvent: 0
         isGlobal: 0
       toState: Give To Customer
+      linkStyle: 0
+      linkConstraint: 0
+      linkTarget: 0
+      colorIndex: 0
+    - fsmEvent:
+        name: On Customer
+        isSystemEvent: 0
+        isGlobal: 1
+      toState: On Customer
       linkStyle: 0
       linkConstraint: 0
       linkTarget: 0

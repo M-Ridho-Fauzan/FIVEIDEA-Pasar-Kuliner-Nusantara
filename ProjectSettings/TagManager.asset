@@ -17,6 +17,10 @@ TagManager:
   - Customer
   - Item Carry Point
   - Model
+  - Item Naspad
+  - Item Getuk
+  - Picked
+  - Trash
   layers:
   - Default
   - TransparentFX
@@ -24,9 +28,9 @@ TagManager:
   - Post Processing
   - Water
   - UI
-  - 
-  - 
-  - 
+  - Agent
+  - Customer
+  - Furniture
   - 
   - 
   - 
