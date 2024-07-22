@@ -14,7 +14,7 @@
 [![Static Badge](https://img.shields.io/badge/build-%204%20-green?style=flat&logo=git&logoColor=%23F05032&logoSize=amd&label=Contributtors%20&labelColor=grey&color=%2397979A&cacheSeconds=3600)](https://github.com/M-Ridho-Fauzan/FIVEIDEA-Pasar-Kuliner-Nusantara/graphs/contributors)
 [![Static Badge](https://img.shields.io/badge/build-%20Hutong%20Games%20-green?style=flat&logo=relay&logoColor=white&logoSize=amd&label=Playmaker&labelColor=grey&color=%23FF0000&cacheSeconds=3600)](https://hutonggames.com/index.html)
 [![Static Badge](https://img.shields.io/badge/build-%20v0.6.11%20-green?style=flat&logoColor=white&logoSize=amd&label=Ecosystem%20Ver%20&labelColor=grey&color=orange&cacheSeconds=3600)](https://hutonggames.fogbugz.com/default.asp?W1181)
-[![Static Badge](https://img.shields.io/badge/build-%20Open%20-green?style=flat&logo=pinboard&logoColor=white&logoSize=amd&label=Status&labelColor=grey&color=%23609926&cacheSeconds=3600)]()
+[![Static Badge](https://img.shields.io/badge/build-%20Half_finished%20-green?style=flat&logo=pinboard&logoColor=white&logoSize=amd&label=Status&labelColor=grey&color=orange&cacheSeconds=3600)]()
 
 </div>
 
